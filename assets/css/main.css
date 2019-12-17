@@ -3509,26 +3509,26 @@ input, select, textarea {
 
 		@media screen and (max-width: 1280px) {
 
-			#sidebar + #wrapper + #footer {
+			#sidebar + #wrapper + #contact {
 				margin-left: 0;
 			}
 
 		}
 
-	#footer > .inner a {
+	#contact > .inner a {
 		border-bottom-color: rgba(255, 255, 255, 0.15);
 	}
 
-		#footer > .inner a:hover {
+		#contact > .inner a:hover {
 			border-bottom-color: transparent;
 		}
 
-	#footer > .inner .menu {
+	#contact > .inner .menu {
 		font-size: 0.8em;
-		color: rgba(255, 255, 255, 0.15);
+		color: rgba(255, 255, 255, 0.25);
 	}
 
-	#header + #wrapper + #footer > .inner {
+	#header + #wrapper + #contact> .inner {
 		margin: 0 auto;
 	}
 
